@@ -39,7 +39,7 @@ Currently **Training at SkillEted Pvt. Ltd., Pune**, I design and develop robust
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
@@ -52,9 +52,9 @@ Currently **Training at SkillEted Pvt. Ltd., Pune**, I design and develop robust
 
 ### 📊 GitHub Stats
 
-![Nitesh GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Nitesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitesh26tech&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh26tech&layout=compact&theme=tokyonight)
 
 ---
 
